@@ -1,0 +1,8 @@
+[run]
+branch = true
+
+[report]
+omit =
+    python/pyapogee/etc/*
+    python/pyapogee/misc/*
+    python/pyapogee/tests/*
